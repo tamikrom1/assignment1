@@ -62,3 +62,9 @@ Write a recursive function that finds the GCD of two numbers
 using the Euclidean Algorithm.
 
 ![](screens/task10.png)
+
+
+Summary:
+In this assignment, I implemented recursive functions in Java to solve problems with numbers, arrays, and strings. For each task, I defined a base case and a recursive step without using loops. I tested the functions with different inputs to ensure they work correctly. This assignment helped me understand recursion and improve my problem-solving skills.
+
+
